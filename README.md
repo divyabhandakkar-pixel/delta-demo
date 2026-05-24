@@ -1,2 +1,2 @@
 # delta-demo
-This a delta demo repo
+This a delta demo repo.
